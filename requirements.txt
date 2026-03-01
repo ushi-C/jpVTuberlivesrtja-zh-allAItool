@@ -1,0 +1,14 @@
+# ASR
+faster-whisper
+
+# 弹幕清洗
+rapidfuzz
+
+# OpenAI 
+openai
+
+# API 重试
+tenacity
+
+# GPU 推理
+torch
